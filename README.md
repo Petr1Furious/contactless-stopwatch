@@ -6,7 +6,9 @@ Sketch for an Arduino contactless stopwatch. Was created for easy timing of solv
 
 The device consists of Arduino Nano, LCD screen, infrared rangefinder and 2 buttons.
 
-The [source file](https://github.com/Petr1Furious/contactless-stopwatch/blob/main/contactless_stopwatch/contactless_stopwatch.ino) is located [here](https://github.com/Petr1Furious/contactless-stopwatch/blob/main/contactless_stopwatch). The sketch was created back in 2018, so implementation may be strange.
+The [source file](https://github.com/Petr1Furious/contactless-stopwatch/blob/main/contactless_stopwatch/contactless_stopwatch.ino) is located [here](https://github.com/Petr1Furious/contactless-stopwatch/blob/main/contactless_stopwatch).
+
+The sketch was created back in 2018.
 
 ## Usage
 
